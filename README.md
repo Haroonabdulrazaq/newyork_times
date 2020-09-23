@@ -1,4 +1,4 @@
-Newyork Times Clone
+## Newyork Times Clone
  This project is a clone of Newyork Times page.
 Cloning this site was aimed at building strong Knowleged in HTML5 and CSS3(Grid and Flexbox)
 Lerned How to layout a complex webpage by building clone of Newyork Times
